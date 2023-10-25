@@ -1,0 +1,41 @@
+   {
+         "song1" : {
+            "song" : "Kung 'Di Na Ako",
+            "artist" : "Agsunta",
+            "genre" : "pinoy rock",
+            "link" : "https://www.youtube.com/watch?v=QSCJh0GvFEs",
+            "id" : 1
+         },
+      
+         "song2" : {
+            "song" : "Hindi Tayo Pwede",
+            "artist" : "The Juans",
+            "genre" : "pinoy pop",
+            "link" : "https://www.youtube.com/watch?v=tymUlVEkzOg",
+            "id": 2
+         },
+      
+         "song3" : {
+            "song" : "YK",
+            "artist" : "Cean Jr.",
+            "genre" : "rap",
+            "link" : "https://www.youtube.com/watch?v=BqjlDvQJs3w",
+            "id": 3
+         },
+
+         "song4" : {
+            "song" : "Love",
+            "artist" : "Keyshia Cole",
+            "genre" : "r&b",
+            "link" : "https://www.youtube.com/watch?v=wZaotY2V3gY",
+            "id": 4
+         },
+      
+         "song5" : {
+            "song" : "It Will Rain",
+            "artist" : "Bruno Mars",
+            "genre" : "soul",
+            "link" : "https://www.youtube.com/watch?v=FRtXs73iICo",
+            "id": 5
+         }
+   }
